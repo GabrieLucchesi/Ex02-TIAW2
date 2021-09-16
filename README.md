@@ -7,4 +7,4 @@ Esta tarefa consiste na criação de um programa em Java utilizando o ambiente d
 4. Criam uma classe Principal contendo um menu com as opções Listar, Inserir, Excluir, Atualizar e Sair para acessar as funções CRUD da DAO.
 
 
-Arquivos em java: https://github.com/GabrieLucchesi/Ex2-TIAW2/tree/main/Exercicio02/src/main/java/com/ti2cc
+Arquivos em java: https://github.com/GabrieLucchesi/Ex02-TIAW2/tree/main/Exercicio02/src/main/java/com/ti2cc
